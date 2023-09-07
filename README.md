@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋, Soy Matías</h1>
-<h3 align="center">Tecnólogo Informático, Full Stack Developer 💻</h3>
+<h3 align="center">Full Stack Developer 💻</h3>
 
 <p align="center">Soy un Desarrollador de Software que siempre está preparado para aprender algo nuevo! Trabajo en backend y en frontend, tengo experiencia trabajando en aplicaciones web, móviles y de escritorio.</p>
 
